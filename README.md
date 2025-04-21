@@ -18,3 +18,6 @@ MENTOR: NEELA SANTHOSH
 The "Chat Application" presents a clean and intuitive interface for real-time communication. The main element is a central chat window, designed with a light background to enhance readability. This window displays a history of messages exchanged in the current chat session. Each message is contained within a distinct bubble, visually separating individual contributions to the conversation.
 
 The application's header, indicated by a blue banner at the top, clearly labels it as "Chat Application," reinforcing its purpose. The overall design is simple and focused, emphasizing the core functionality of real-time text-based communication. The use of contrasting colors for the header and the send button provides visual cues and enhances user interaction.
+
+## OUTPUT 
+![Image](https://github.com/user-attachments/assets/0865e240-d66e-4b3c-9962-285ecb4e2f0c)
